@@ -1,6 +1,6 @@
 # ProjectLudusGroup6
 
-Link to the API (SwaggerDocs): https://app.swaggerhub.com/apis-docs/JordyCode/ProjectLudusAPI/1
+Link to the APIdoc (SwaggerDoc): https://app.swaggerhub.com/apis-docs/JordyCode/ProjectLudusAPI/1
 
 ## Dataset division of tasks:
 
@@ -49,14 +49,12 @@ Nick:
  Jordy:
 - Made the sequence diagram
 - Helped with the use case and activity diagram
-- Made the API (SwaggerDocs) with the group members
+- Made the APIdoc (SwaggerDoc) with the group members
 
 Abhishek:
 - Made the use case diagram and description
-- Made the API (SwaggerDocs) with the group members
+- Made the APIdoc (SwaggerDoc) with the group members
 
 Nick:
 - Made the activity, class and state diagram
-- Made the API (SwaggerDocs) with the group members
-
-
+- Made the APIdoc (SwaggerDoc) with the group members
