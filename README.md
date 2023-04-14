@@ -48,11 +48,12 @@ Nick:
  
  Jordy:
 - Made the sequence diagram
-- Helped with the use case and activity diagram
+- Helped with the use case and class diagram
 - Made the APIdoc (SwaggerDoc) with the group members
 
 Abhishek:
 - Made the use case diagram and description
+- Helped with the class diagram
 - Made the APIdoc (SwaggerDoc) with the group members
 
 Nick:
