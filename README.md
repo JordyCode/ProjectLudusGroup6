@@ -1,5 +1,7 @@
 # ProjectLudusGroup6
 
+Link to the API (SwaggerDocs): https://app.swaggerhub.com/apis-docs/JordyCode/ProjectLudusAPI/1
+
 ## Dataset division of tasks:
 
 Jordy:
@@ -41,3 +43,20 @@ Nick:
 - Trained the dataset together with the group members
 - Analyse the results together
 - Testing the model on webcam and pictures together on school and Discord
+
+ ## TFGD division of tasks:
+ 
+ Jordy:
+- Made the sequence diagram
+- Helped with the use case and activity diagram
+- Made the API (SwaggerDocs) with the group members
+
+Abhishek:
+- Made the use case diagram and description
+- Made the API (SwaggerDocs) with the group members
+
+Nick:
+- Made the activity, class and state diagram
+- Made the API (SwaggerDocs) with the group members
+
+
